@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itswiseman
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, Machine Learning and everything data
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me on oyekunlewasiu9@gmail.com
